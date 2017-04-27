@@ -1,40 +1,7 @@
 # Coding Interview University
 
-> I originally created this as a short to-do list of study topics for becoming a software engineer, 
-> but it grew to the large list you see today. After going through this study plan, [I got hired 
-> as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)! 
-> You probably won't have to study as much as I did. Anyway, everything you need is here.
->
-> The items listed here will prepare you well for in an interview at just about any software company, 
-> including the giants: Amazon, Facebook, Google or Microsoft.
->
-> *Best of luck to you!*
-
-Translations:
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vn.md)
-- translations in progress:
-    - [Español](https://github.com/jwasham/coding-interview-university/issues/80)
-    - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-    - [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-    - [Bahasa Indonesia](https://github.com/jwasham/coding-interview-university/issues/101)
-    - [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-    - [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-    - [French](https://github.com/jwasham/coding-interview-university/issues/89)
-    - [Russian](https://github.com/jwasham/coding-interview-university/issues/87)
-    - [Ukrainian](https://github.com/jwasham/coding-interview-university/issues/106)
-    - [Brazilian Portuguese](https://github.com/jwasham/coding-interview-university/issues/113)
-    - [Korean](https://github.com/jwasham/coding-interview-university/issues/118)
-    - [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-    - [Polish](https://github.com/jwasham/coding-interview-university/issues/122)
-    - [German](https://github.com/jwasham/coding-interview-university/issues/135)
-    - [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
-    - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-    - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-    - [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
-
 ## What is it?
-
+- [x] []
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
@@ -52,10 +19,10 @@ If you want to be a reliability engineer or systems engineer, study more from th
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [x] [What is it?](#what-is-it)
+- [x] [Why use it?](#why-use-it)
+- [ ] [How to use it](#how-to-use-it)
+- [ ] [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
@@ -170,7 +137,7 @@ If you want to be a reliability engineer or systems engineer, study more from th
 ---
 
 ## Why use it?
-
+- [x] []
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
 traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
 Every data structure I've ever used was built into the language, and I didn't know how they worked
@@ -181,7 +148,7 @@ thousands of associative arrays, but I've never created data structures from scr
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
 ## How to use it
-
+- [ ] []
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
@@ -210,6 +177,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Don't feel you aren't smart enough
+- [ ]
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
