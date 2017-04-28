@@ -4,8 +4,6 @@
 - [x]
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
-
 This is meant for **new software engineers** or those switching from
 software/web development to software engineering (where computer science knowledge is required). If you have
 many years of experience and are claiming many years of software engineering experience, expect a harder interview.
@@ -19,10 +17,10 @@ If you want to be a reliability engineer or systems engineer, study more from th
 
 ## Table of Contents
 
-- [x] [What is it?](#what-is-it)
-- [x] [Why use it?](#why-use-it)
-- [ ] [How to use it](#how-to-use-it)
-- [ ] [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [What is it?](#what-is-it)
+- [Why use it?](#why-use-it)
+- [How to use it](#how-to-use-it)
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
@@ -137,7 +135,7 @@ If you want to be a reliability engineer or systems engineer, study more from th
 ---
 
 ## Why use it?
-- [x] []
+- [x]
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
 traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
 Every data structure I've ever used was built into the language, and I didn't know how they worked
@@ -148,7 +146,7 @@ thousands of associative arrays, but I've never created data structures from scr
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
 ## How to use it
-- [ ] []
+- [ ]
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
@@ -177,7 +175,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Don't feel you aren't smart enough
-- [ ]
+
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
