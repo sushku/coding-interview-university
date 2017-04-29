@@ -55,7 +55,7 @@ Read more about choices:
 
 ### 2. Use Flashcards
 
-<a href="https://web.ankiapp.com" target="_blank">AnkiApp Flashcards</a>
+[AnkiApp Flashcards](https://web.ankiapp.com)
 
 ## The Daily Plan
 
