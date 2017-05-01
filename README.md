@@ -26,10 +26,11 @@ Read more about choices:
 
 ## Book List
 
-### Interview Prep
+### Algorithms
 
 - [x] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
 - [x] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+- [x] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
 - [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 
 ### Computer Architecture
@@ -39,13 +40,23 @@ Read more about choices:
 
 ### Language Specific
 
-- [x] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
+#### C++
+- [x] [Accelerated C++ - Andrew Koenig and Barbara Moo](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X/)
+- [x] [Exceptional C++ - Herb Sutter](https://www.amazon.com/Exceptional-Engineering-Programming-Problems-Solutions/dp/0201615622/)
+- [x] [Effective C++ - Scott Meyers](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876/)
+- [ ] [More Effective C++ - Scott Meyers](https://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X/)
+- [x] [Effective STL - Scott Meyers](https://www.amazon.com/Effective-STL-Specific-Standard-Template/dp/0201749629/)
+- [x] [Effective Modern C++ - Scott Meyers](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/)
+
+#### Python
+- [x] [Fluent Python - Luciano Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/)
+- [x] [Effective Python - Brett Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287/)
 
 ### Optional Books
 
-- [x] [Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) (Skiena)
-- [x] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
-- [x] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+- [x] [Algorithm Design Manual - Steven Skiena](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+- [x] [Introduction to Algorithms - Cormen, Leiserson, Rivest and Stein](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+- [x] [Programming Pearls - Jon Bentley](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
 
 ## Before you Get Started, Keep In Mind...
 
