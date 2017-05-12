@@ -11,15 +11,12 @@
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
-- [ ] Cracking The Coding Interview Set 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+- [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+- [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
 ## Pick One Language for the Interview
 
-Read more about choices:
 - [ ] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
 - [ ] http://blog.codingforinterviews.com/best-programming-language-jobs/
 - [ ] [See language resources here](programming-language-resources.md)
@@ -30,8 +27,7 @@ Read more about choices:
 
 - [x] ![progress](http://progressed.io/bar/0) [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition - Giguere, Mongan, Suojanen](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
 - [x] ![progress](http://progressed.io/bar/0) [Cracking the Coding Interview, 6th Edition - McDowell](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-- [x] ![progress](http://progressed.io/bar/0) [Data Structures and Algorithms in Python - Goodrich, Tamassia, Goldwasser](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
-- [ ] ![progress](http://progressed.io/bar/0) [Elements of Programming Interviews (C++ version) - Aziz, Lee, Prakash](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+- [x] ![progress](http://progressed.io/bar/3) [Data Structures and Algorithms in Python - Goodrich, Tamassia, Goldwasser](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/) - 720 pages
 
 ### Computer Architecture
 
@@ -44,7 +40,7 @@ Read more about choices:
 - [x] ![progress](http://progressed.io/bar/0) [Accelerated C++ - Koenig, Moo](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X/)
 - [x] ![progress](http://progressed.io/bar/0) [Exceptional C++ - Sutter](https://www.amazon.com/Exceptional-Engineering-Programming-Problems-Solutions/dp/0201615622/)
 - [x] ![progress](http://progressed.io/bar/0) [Effective C++ - Meyers](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876/)
-- [ ] ![progress](http://progressed.io/bar/0) [More Effective C++ - Meyers](https://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X/)
+- [x] ![progress](http://progressed.io/bar/0) [More Effective C++ - Meyers](https://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X/)
 - [x] ![progress](http://progressed.io/bar/0) [Effective STL - Meyers](https://www.amazon.com/Effective-STL-Specific-Standard-Template/dp/0201749629/)
 - [x] ![progress](http://progressed.io/bar/0) [Effective Modern C++ - Meyers](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/)
 
@@ -57,6 +53,7 @@ Read more about choices:
 - [x] ![progress](http://progressed.io/bar/0) [Algorithm Design Manual - Skiena](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
 - [x] ![progress](http://progressed.io/bar/0) [Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 - [x] ![progress](http://progressed.io/bar/0) [Programming Pearls - Bentley](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+- [ ] ![progress](http://progressed.io/bar/0) [Elements of Programming Interviews (C++ version) - Aziz, Lee, Prakash](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 
 ## Before you Get Started, Keep In Mind...
 
@@ -66,7 +63,7 @@ Read more about choices:
 
 ### 2. Use Flashcards
 
-[AnkiApp Flashcards](https://web.ankiapp.com)
+- [ ] [AnkiApp Flashcards](https://web.ankiapp.com)
 
 ## The Daily Plan
 
