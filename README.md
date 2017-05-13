@@ -1,25 +1,27 @@
 # Coding Interview University
 
+This is a personalized version of Coding Interview University originlly forked from https://github.com/jwasham/coding-interview-university
+
 ## Don't feel you aren't smart enough
 
-- [ ] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [ ] [The Myth of the Genius Programmer (video)](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech (video)](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## Interview Process & General Interview Prep
 
 - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [ ] [Demystifying Tech Recruiting (video)](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
 - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
 ## Pick One Language for the Interview
 
-- [ ] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- [ ] http://blog.codingforinterviews.com/best-programming-language-jobs/
-- [ ] [See language resources here](programming-language-resources.md)
+- [ ] [Choose the right language for your coding interview](http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/)
+- [ ] [Choosing a Programming Language for Interviews](http://blog.codingforinterviews.com/best-programming-language-jobs/)
+- [ ] [Language Resources](programming-language-resources.md)
 
 ## Book List
 
@@ -29,11 +31,6 @@
 - [x] [Cracking the Coding Interview, 6th Edition - McDowell](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
 - [x] [Data Structures and Algorithms in Python - Goodrich, Tamassia, Goldwasser](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
 
- 1| 2| 3
---|--|--
-:white_check_mark:|a|b
-
-
 ### Computer Architecture
 
 - [x] [Write Great Code: Volume 1: Understanding the Machine - Hyde](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
@@ -41,13 +38,16 @@
 
 ### Language Specific
 
+#### C
+- [x] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+
 #### C++
 - [x] [Accelerated C++ - Koenig, Moo](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X/)
-- [x] [Exceptional C++ - Sutter](https://www.amazon.com/Exceptional-Engineering-Programming-Problems-Solutions/dp/0201615622/)
 - [x] [Effective C++ - Meyers](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876/)
 - [x] [More Effective C++ - Meyers](https://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X/)
 - [x] [Effective STL - Meyers](https://www.amazon.com/Effective-STL-Specific-Standard-Template/dp/0201749629/)
 - [x] [Effective Modern C++ - Meyers](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/)
+- [x] [Exceptional C++ - Sutter](https://www.amazon.com/Exceptional-Engineering-Programming-Problems-Solutions/dp/0201615622/)
 
 #### Python
 - [x] [Fluent Python - Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/)
@@ -58,7 +58,13 @@
 - [x] [Algorithm Design Manual - Skiena](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
 - [x] [Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 - [x] [Programming Pearls - Bentley](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+- [x] [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [ ] [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
 - [ ] [Elements of Programming Interviews (C++ version) - Aziz, Lee, Prakash](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+- [ ] [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
+- [ ] [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
+- [ ] [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
+- [ ] [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
 
 ## Before you Get Started, Keep In Mind...
 
@@ -81,16 +87,12 @@ Each day take one subject from the list below, watch videos about that subject, 
 
 ## Prerequisite Knowledge
 
-- [ ] **Learn C**
-    - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
-        - [Answers to questions](https://github.com/lekkas/c-algorithms)
-
-- [ ] **How computers process a program:**
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [x] Learn C
+- [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+- [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
-- Nothing to implement
+
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
@@ -123,7 +125,6 @@ Each day take one subject from the list below, watch videos about that subject, 
         - [Multi-dim (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)
         - [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
-        - [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
         - [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
@@ -1091,9 +1092,8 @@ You're never really done.
 - [ ] [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
 - [ ] [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
     - a gentle introduction to design patterns
-- [ ] [Design Patterns: Elements of Reusable Object-Oriente​d Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [ ] [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
     - aka the "Gang Of Four" book, or GOF
-    - the canonical design patterns book
 - [ ] [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
 
 ## Additional Learning
