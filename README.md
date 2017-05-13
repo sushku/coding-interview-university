@@ -25,35 +25,39 @@
 
 ### Algorithms
 
-- [x] ![progress](http://progressed.io/bar/0) [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition - Giguere, Mongan, Suojanen](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
-- [x] ![progress](http://progressed.io/bar/0) [Cracking the Coding Interview, 6th Edition - McDowell](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-- [x] ![progress](http://progressed.io/bar/3) [Data Structures and Algorithms in Python - Goodrich, Tamassia, Goldwasser](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/) - 720 pages
+- [x] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition - Giguere, Mongan, Suojanen](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+- [x] [Cracking the Coding Interview, 6th Edition - McDowell](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+- [x] [Data Structures and Algorithms in Python - Goodrich, Tamassia, Goldwasser](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/) - 720 pages
+1|2|3|4|5|6|7|8|9|10|11|12|13|14|15
+-|-|-|-|-|-|-|-|-|--|--|--|--|--|--
+:white_check_mark:| | | | | | | | | | | | | |
+
 
 ### Computer Architecture
 
-- [x] ![progress](http://progressed.io/bar/0) [Write Great Code: Volume 1: Understanding the Machine - Hyde](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
-- [x] ![progress](http://progressed.io/bar/0) [Computer Architecture, Fifth Edition: A Quantitative Approach - Hennessy, Patterson](https://www.amazon.com/dp/012383872X/)
+- [x] [Write Great Code: Volume 1: Understanding the Machine - Hyde](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
+- [x] [Computer Architecture, Fifth Edition: A Quantitative Approach - Hennessy, Patterson](https://www.amazon.com/dp/012383872X/)
 
 ### Language Specific
 
 #### C++
-- [x] ![progress](http://progressed.io/bar/0) [Accelerated C++ - Koenig, Moo](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X/)
-- [x] ![progress](http://progressed.io/bar/0) [Exceptional C++ - Sutter](https://www.amazon.com/Exceptional-Engineering-Programming-Problems-Solutions/dp/0201615622/)
-- [x] ![progress](http://progressed.io/bar/0) [Effective C++ - Meyers](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876/)
-- [x] ![progress](http://progressed.io/bar/0) [More Effective C++ - Meyers](https://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X/)
-- [x] ![progress](http://progressed.io/bar/0) [Effective STL - Meyers](https://www.amazon.com/Effective-STL-Specific-Standard-Template/dp/0201749629/)
-- [x] ![progress](http://progressed.io/bar/0) [Effective Modern C++ - Meyers](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/)
+- [x] [Accelerated C++ - Koenig, Moo](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X/)
+- [x] [Exceptional C++ - Sutter](https://www.amazon.com/Exceptional-Engineering-Programming-Problems-Solutions/dp/0201615622/)
+- [x] [Effective C++ - Meyers](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876/)
+- [x] [More Effective C++ - Meyers](https://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X/)
+- [x] [Effective STL - Meyers](https://www.amazon.com/Effective-STL-Specific-Standard-Template/dp/0201749629/)
+- [x] [Effective Modern C++ - Meyers](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/)
 
 #### Python
-- [x] ![progress](http://progressed.io/bar/0) [Fluent Python - Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/)
-- [x] ![progress](http://progressed.io/bar/0) [Effective Python - Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287/)
+- [x] [Fluent Python - Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/)
+- [x] [Effective Python - Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287/)
 
 ### Optional Books
 
-- [x] ![progress](http://progressed.io/bar/0) [Algorithm Design Manual - Skiena](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-- [x] ![progress](http://progressed.io/bar/0) [Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
-- [x] ![progress](http://progressed.io/bar/0) [Programming Pearls - Bentley](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
-- [ ] ![progress](http://progressed.io/bar/0) [Elements of Programming Interviews (C++ version) - Aziz, Lee, Prakash](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+- [x] [Algorithm Design Manual - Skiena](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+- [x] [Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+- [x] [Programming Pearls - Bentley](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+- [ ] [Elements of Programming Interviews (C++ version) - Aziz, Lee, Prakash](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 
 ## Before you Get Started, Keep In Mind...
 
