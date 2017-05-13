@@ -28,9 +28,9 @@
 - [x] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition - Giguere, Mongan, Suojanen](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
 - [x] [Cracking the Coding Interview, 6th Edition - McDowell](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
 - [x] [Data Structures and Algorithms in Python - Goodrich, Tamassia, Goldwasser](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/) - 720 pages
-1|2|3|4|5|6|7|8|9|10|11|12|13|14|15
--|-|-|-|-|-|-|-|-|--|--|--|--|--|--
-:white_check_mark:| | | | | | | | | | | | | |
+ 1| 2| 3| 4| 5| 6| 7| 8| 9|10|11|12|13|14|15
+--|--|--|--|--|--|--|--|--|--|--|--|--|--|--
+:white_check_mark:| | | | | | | | | | | | | |a
 
 
 ### Computer Architecture
