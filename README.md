@@ -27,44 +27,42 @@ This is a personalized version of Coding Interview University originlly forked f
 
 ### Algorithms
 
-- [x] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition - Giguere, Mongan, Suojanen](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
-- [x] [Cracking the Coding Interview, 6th Edition - McDowell](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-- [x] [Data Structures and Algorithms in Python - Goodrich, Tamassia, Goldwasser](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
+- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition - Giguere, Mongan, Suojanen](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+- [ ] [Cracking the Coding Interview, 6th Edition - McDowell](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+- [ ] [Data Structures and Algorithms in Python - Goodrich, Tamassia, Goldwasser](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
 
 ### Computer Architecture
 
-- [x] [Write Great Code: Volume 1: Understanding the Machine - Hyde](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
-- [x] [Computer Architecture, Fifth Edition: A Quantitative Approach - Hennessy, Patterson](https://www.amazon.com/dp/012383872X/)
+- [ ] [Write Great Code: Volume 1: Understanding the Machine - Hyde](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
+- [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach - Hennessy, Patterson](https://www.amazon.com/dp/012383872X/)
 
 ### Language Specific
 
 #### C
-- [x] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+- [ ] [C Programming Language, Vol 2 - Kernighan, Ritchie](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
 
 #### C++
-- [x] [Accelerated C++ - Koenig, Moo](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X/)
-- [x] [Effective C++ - Meyers](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876/)
-- [x] [More Effective C++ - Meyers](https://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X/)
-- [x] [Effective STL - Meyers](https://www.amazon.com/Effective-STL-Specific-Standard-Template/dp/0201749629/)
-- [x] [Effective Modern C++ - Meyers](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/)
-- [x] [Exceptional C++ - Sutter](https://www.amazon.com/Exceptional-Engineering-Programming-Problems-Solutions/dp/0201615622/)
+- [ ] [Accelerated C++ - Koenig, Moo](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X/)
+- [ ] [Effective C++ - Meyers](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876/)
+- [ ] [More Effective C++ - Meyers](https://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X/)
+- [ ] [Effective STL - Meyers](https://www.amazon.com/Effective-STL-Specific-Standard-Template/dp/0201749629/)
+- [ ] [Effective Modern C++ - Meyers](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/)
+- [ ] [Exceptional C++ - Sutter](https://www.amazon.com/Exceptional-Engineering-Programming-Problems-Solutions/dp/0201615622/)
 
 #### Python
-- [x] [Fluent Python - Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/)
-- [x] [Effective Python - Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287/)
+- [ ] [Fluent Python - Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/)
+- [ ] [Effective Python - Slatkin](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287/)
 
 ### Optional Books
 
-- [x] [Algorithm Design Manual - Skiena](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-- [x] [Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
-- [x] [Programming Pearls - Bentley](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
-- [x] [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-- [ ] [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/)
+- [ ] [Algorithm Design Manual - Skiena](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+- [ ] [Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+- [ ] [Programming Pearls - Bentley](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+- [ ] [Design Patterns: Elements of Reusable Object-Oriented Software - Gamma, Helm, Johnson, Vlissides](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [ ] [Head First Design Patterns - Freeman, Robson, Sierra, Bates](https://www.amazon.com/gp/product/0596007124/)
+- [ ] [The Unix Programming Environment - Kernighan, Pike](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
+- [ ] [The Linux Command Line: A Complete Introduction - Shotts](https://www.amazon.com/dp/1593273894/)
 - [ ] [Elements of Programming Interviews (C++ version) - Aziz, Lee, Prakash](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-- [ ] [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
-- [ ] [The Linux Command Line: A Complete Introduction](https://www.amazon.com/dp/1593273894/)
-- [ ] [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
-- [ ] [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
 
 ## Before you Get Started, Keep In Mind...
 
@@ -74,7 +72,7 @@ This is a personalized version of Coding Interview University originlly forked f
 
 ### 2. Use Flashcards
 
-- [ ] [AnkiApp Flashcards](https://web.ankiapp.com)
+- [x] [Anki Flashcards](https://ankiweb.net/decks/)
 
 ## The Daily Plan
 
@@ -93,9 +91,9 @@ Each day take one subject from the list below, watch videos about that subject, 
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [slides](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
@@ -110,9 +108,6 @@ Each day take one subject from the list below, watch videos about that subject, 
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
-
-    If some of the lectures are too mathy, you can jump down to the bottom and
-    watch the discrete mathematics videos to get the background knowledge.
 
 ## Data Structures
 
